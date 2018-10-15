@@ -1,0 +1,18 @@
+{
+    "name": "zsaki/h-wphp",
+    "authors": [
+        {
+            "name": "zivile sakiene",
+            "email": "z.sakiene@gmail.com"
+        }
+    ],
+    "require": {
+        "brick/math": "^0.8.0"
+    },
+    "autoload": {
+        "files": [
+            "src/file1.php",
+            "src/file2.php"
+        ]
+    }
+}
